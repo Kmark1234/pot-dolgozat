@@ -1,0 +1,25 @@
+h1{
+  font-size: 40px;  
+color: white;
+text-align: center;
+
+}
+ 
+body{
+    background-color: green;
+}
+
+p{font-size: 20px;
+    color: aqua ;
+}
+
+ul{
+    color: white;
+font-size: 21px;
+}
+
+h2{
+    font-size: 40px;  
+  color: white;
+  text-align: left;
+}
